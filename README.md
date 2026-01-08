@@ -226,7 +226,8 @@ Potential features to add:
 
 ---
 
-**Made with ❤️ for VTMFASHION**
+**Made with ❤️  THASMILAN**
+
 
 
 
