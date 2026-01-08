@@ -71,8 +71,8 @@ Update credentials in `admin-script.js`:
 
 ```javascript
 const ADMIN_CREDENTIALS = {
-    username: 'your_username',
-    password: 'your_secure_password'
+    username: 'xxxxxxx',
+    password: 'xxxxxxxxxx'
 };
 ```
 
@@ -197,7 +197,7 @@ For production use with multiple products, consider integrating a backend servic
 ## 📞 Support & Contact
 
 For support or questions about this website:
-- WhatsApp: +94 76 484 7081
+- WhatsApp: +94 xxxxxxxxxxx
 - Email: info@vtmfashion.com
 
 ## 📝 License
@@ -227,3 +227,4 @@ Potential features to add:
 ---
 
 **Made with ❤️ for VTMFASHION**
+
