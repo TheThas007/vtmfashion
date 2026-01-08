@@ -219,7 +219,7 @@ Potential features to add:
 
 ## 🙏 Credits
 
-- Design & Development: VTMFASHION Team
+- Design & Development: vtx Team
 - Fonts: Google Fonts (Inter, Playfair Display)
 - Icons: Heroicons
 - Images: Unsplash (replace with your own)
@@ -227,5 +227,6 @@ Potential features to add:
 ---
 
 **Made with ❤️ for VTMFASHION**
+
 
 
