@@ -49,8 +49,8 @@ vtmfashion/
 ### Admin Login Credentials
 
 ```
-Username: admin
-Password: vtmfashion2026
+Username: xxxxxxxx
+Password: xxxxxxxxx
 ```
 
 **⚠️ IMPORTANT:** Change these credentials in `admin-script.js` before deploying to production!
@@ -62,7 +62,7 @@ Password: vtmfashion2026
 Update the WhatsApp number in `script.js`:
 
 ```javascript
-const WHATSAPP_NUMBER = "94764847081"; // Change to your number
+const WHATSAPP_NUMBER = "xxxxxxxxx"; // Change to your number
 ```
 
 ### Admin Credentials
@@ -227,4 +227,5 @@ Potential features to add:
 ---
 
 **Made with ❤️ for VTMFASHION**
+
 
